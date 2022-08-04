@@ -18,3 +18,23 @@
 * 波动: (v.) fluctuate
         (n.) fluctuation
 * 稳定不变: Keep/remain + stable/constant/level at...
+* 急剧的、快速的、大幅度的(adj.):
+       sharp; rapid; dramatic; drastic; significant; considerable; substantial
+* 缓慢的、逐渐的、小幅度的(adv.)
+       gradually; steadily; consistently; slowly; slightly; moderately; modestly; mildly; gently
+* 急剧上升：(v.) jump/surge/soar/shoot up/ rocket up
+           (n.) jump/surge/soar
+           (adj.) jumping/surging/soaring
+* 急剧下降：(v.) plummet/plunge/dive
+           (n.) plummet/plunge/dive
+           (adj.) plummeting/plunging/diving
+* 对未来数据预测：…… is expected/ projected/ predicted to do
+                 It is predicted/expected/projected that …… will ……;
+                 According to the predictions/expectations, …… will ……
+* 时间跨度：from …… to ……;
+           between …… and ……;
+           during/over/in the period from …… to ……；
+           during/over/in the period of ……；
+           last for ……；
+           over a 5-year period
+* 年代、世纪：in the early/mid/late + 世纪/年代 (in the early 20th century/ in the mid 1990s)
