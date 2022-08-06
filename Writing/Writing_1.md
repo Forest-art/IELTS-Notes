@@ -2,6 +2,28 @@
 
 
 
+## Start Description
+#### 地图
+* Given are the two pictures that reveal the layout of a conference centre today and a plan for future;
+
+#### 流程图
+* The diagram/flowchart gives information about the process of...
+
+#### 动态图
+* The graph provided describes/illustrates/depicts/reveals/displays + the changes/variations of ...
+* A glance at the graph provided reveals...
+* Given is the graph which displays...
+
+
+
+
+
+
+
+
+
+
+
 ## Line Graph
 
 ### The original descrip
