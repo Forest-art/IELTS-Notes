@@ -22,7 +22,7 @@
        sharp; rapid; dramatic; drastic; significant; considerable; substantial
 * 缓慢的、逐渐的、小幅度的(adv.)
        gradually; steadily; consistently; slowly; slightly; moderately; modestly; mildly; gently
-* 急剧上升：(v.) jump/surge/soar/shoot up/ rocket up
+* 急剧上升：(v.) jump/surge/soar/shoot up/ rocket up 
            (n.) jump/surge/soar
            (adj.) jumping/surging/soaring
 * 急剧下降：(v.) plummet/plunge/dive
@@ -38,3 +38,20 @@
            last for ……；
            over a 5-year period
 * 年代、世纪：in the early/mid/late + 世纪/年代 (in the early 20th century/ in the mid 1990s)
+
+
+### The sentence template in line graph.
+* A more dramatic rise is predicted between 2030 to 2040 in Japan.
+
+```
+- The figure in Japan will increase dramatically from 2030 to 2040;
+- There will be a sharp growth over the period from 2030 to 2040;
+- The figure in Japan will experience a marked rise over a decade from 2030 to 2040;
+- The decade between 2030 and 2040 will witness a significant increase in the figure of Japan;
+```
+
+* 转折关系(A..., while B...; Although A..., B...; Despite A..., B...)
+* 先后关系(After A..., B...; A..., before B; A..., followed by B...)
+```
+While the figures for the Western countries grew to about 15% in around 1990, the figure for Japan dipped to only 2.5% for much of this period, before rising to almost 5% again at the present time.
+```
